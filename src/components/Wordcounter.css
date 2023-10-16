@@ -1,0 +1,8 @@
+.Wordcounter {
+	text-align: center;
+	margin-top: 20rem;
+}
+textarea {
+	border: 2px solid black;
+	border-radius: 5px;
+}
